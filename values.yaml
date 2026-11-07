@@ -10,7 +10,7 @@ images:
     pullPolicy: IfNotPresent
   user:
     repository: vinayacharya07/pharmacy-user-api
-    tag: "5"
+    tag: "6"
     pullPolicy: IfNotPresent
   medicine:
     repository: vinayacharya07/pharmacy-medicine-api
